@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomSecond</string>
+    <string name="sign_up_error">Введите верные данные</string>
+</resources>
